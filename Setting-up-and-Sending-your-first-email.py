@@ -3,7 +3,7 @@ import smtplib
 
 # TYPE YOUR GMAIL 👇
 my_email = 'Your Gmail'
-# TYPE YOUR PASSWORD 👇
+# TYPE YOUR 16-digit PASSWORD 👇
 password = ''
 
 
