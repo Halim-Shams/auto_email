@@ -1,5 +1,4 @@
 import smtplib
-import datetime as dt
 
 
 # TYPE YOUR GMAIL 👇
